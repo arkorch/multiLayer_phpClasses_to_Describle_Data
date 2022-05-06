@@ -1,15 +1,3 @@
-# Roychowdhury_Arko_MMED-3014-homework_2
-
-A multi-layer PHP class setup to describe some related data and functionality.
-
-# NOTE TO PROFF NICK IRELAND
-
-please find the file in documents/note_to_proff_ireland
-
-# Link to github repo
-
-git@github.com:arkorch/Roychowdhury_Arko_MMED-3014-homework_2.git
-
 # Explanation of process
 
 - creating a folder structure were the child of an element is enclosed inside a directory.
